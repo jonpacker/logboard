@@ -11,6 +11,8 @@
   "license": "BSD",
   "dependencies": {
     "optimist": "~0.3.7",
-    "servinator": "~0.1.2"
+    "servinator": "~0.1.2",
+    "request": "~2.16.6",
+    "shoe": "0.0.10"
   }
 }
