@@ -1,5 +1,5 @@
 {
-  "name": "logmachine",
+  "name": "logboard",
   "version": "0.0.0",
   "description": "ERROR: No README.md file found!",
   "main": "index.js",
@@ -10,6 +10,7 @@
   "author": "",
   "license": "BSD",
   "dependencies": {
-    "optimist": "~0.3.7"
+    "optimist": "~0.3.7",
+    "servinator": "~0.1.2"
   }
 }
